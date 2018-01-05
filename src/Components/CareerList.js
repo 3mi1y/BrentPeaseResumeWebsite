@@ -32,42 +32,42 @@ const CareerList = () => {
         />
         <CareerCard 
           image={'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/2000px-Washington_Huskies_logo.svg.png'}
-          positions={['Wide receivers']}
+          positions={['Wide Receivers']}
           timeline={'2014-2015'}
         />
         <CareerCard 
           image={'https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Florida_Gators_logo.svg/1280px-Florida_Gators_logo.svg.png'}
-          positions={['Offensive coordinator / quarterbacks']}
+          positions={['Offensive Coordinator / quarterbacks']}
           timeline={'2012-2013'}
         />
         <CareerCard 
-          image={'http://content.sportslogos.net/logos/30/617/full/7391_boise_state_broncos-alternate-2002.png'}
+          image={'http://content.sportslogos.net/logos/30/617/full/5940_boise_state_broncos-alternate-2002.png'}
           positions={[
-            'Offensive coordinator / quarterbacks (2011)',
-            'Wide receivers / assistant head coach (2007 - 2010) ',
+            'Offensive Coordinator / quarterbacks (2011)',
+            'Wide Receivers / assistant head coach (2007 - 2010) ',
             'Wide Receivers (2006)'
           ]}
           timeline={'2006-2011'}
         />
         <CareerCard 
           image={'https://www.baylor.edu/content/imglib/1/4/2/1/142120.png'}
-          positions={['Offensive coordinator / quarterbacks']}
+          positions={['Offensive Coordinator / quarterbacks']}
           timeline={'2003 - 2005'}
         />
         <CareerCard 
           image={'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kentucky_Wildcats_logo.svg/2000px-Kentucky_Wildcats_logo.svg.png'}
-          positions={['Offensive coordinator / quarterbacks']}
+          positions={['Offensive Coordinator / quarterbacks']}
           timeline={'2001 - 2002'}
         />
         <CareerCard 
           image={'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Northern_Arizona_Athletics_logo.svg/1200px-Northern_Arizona_Athletics_logo.svg.png'}
-          positions={[' Offensive coordinator / quarterbacks / assistant head coach']}
+          positions={[' Offensive Coordinator / quarterbacks / assistant head coach']}
           timeline={'1999 - 2000'}
         />
         <CareerCard 
           image={'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Montana_Griz_logo.svg/2000px-Montana_Griz_logo.svg.png'}
           positions={[
-            'Offensive coordinator (1996 - 1998)',
+            'Offensive Coordinator (1996 - 1998)',
             'Offensive assistant (1991 - 1995)'
           ]}
           timeline={'1991 - 1998'}

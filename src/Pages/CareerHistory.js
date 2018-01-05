@@ -27,7 +27,7 @@ const CareerHistory = () => {
     <div style={styles.container}>
       <h1 style={styles.header}>Coaching History</h1>
       <CareerList />
-      <h1 style={styles.header}>Player History</h1>
+      <h1 style={styles.header}>Playing History</h1>
       <PlayerHistory />
     </div>
   )

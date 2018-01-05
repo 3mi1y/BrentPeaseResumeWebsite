@@ -234,7 +234,7 @@ const About = () => {
         <Parallax bgImage="https://cdn.vox-cdn.com/thumbor/gtUbJcudoh9tVyc5DVqc0ppPU9A=/0x571:2464x2214/1200x800/filters:focal(0x571:2464x2214)/cdn.vox-cdn.com/uploads/chorus_image/image/48476269/usa-today-8314924.0.jpg" strength={400} >
          <br />
         <div style={styles.biggerContainer} >
-          <h1 style={styles.headerOne}>Back with Chris Peterson</h1>
+          <h1 style={styles.headerOne}>Back with Chris Petersen</h1>
           <h2 style={styles.headerTwo}>What did you learn?</h2>
           <div style={styles.textChunk}>
             <p style={styles.text}>
