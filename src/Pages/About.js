@@ -13,7 +13,6 @@ const styles = {
     fontSize: '3.5vh'
   },
   smallContainer: {
-    height: '95vh',
     backgroundColor: 'rgb(250, 250, 250)',
     marginTop: '40%',
     display: 'flex',
@@ -22,7 +21,6 @@ const styles = {
     padding: '2%'
   },
   descriptionContainer: {
-    height: '120vh',
     backgroundColor: 'rgb(250, 250, 250)',
     marginTop: '40%',
     display: 'flex',
@@ -31,7 +29,6 @@ const styles = {
     padding: '2%'
   },
   biggerContainer: {
-    height: '140vh',
     backgroundColor: 'rgb(250, 250, 250)',
     marginTop: '40%',
     display: 'flex',
@@ -41,7 +38,6 @@ const styles = {
     padding: '2%'
   },
   boiseState: {
-    height: '150vh',
     backgroundColor: 'rgb(250, 250, 250)',
     marginTop: '40%',
     display: 'flex',
@@ -86,12 +82,12 @@ const styles = {
   },
   whyBrentPease: {
     width: '100%',
-    height: '100vh',
     backgroundColor: 'rgb(250, 250, 250)',
     paddingTop: '5%',
     paddingBottom: '5%',
     display: 'flex',
     flexDirection: 'row',
+    flexWrap: 'wrap',
     alignItems: 'flex-start',
     justifyContent: 'space-around'
   },
@@ -107,7 +103,8 @@ const styles = {
     paddingLeft: '10%'
   },
   imageContainer: {
-    width: '50%'
+    width: '50%',
+    marginTop: '10%'
   },
   image: {
     width: '100%',
@@ -116,7 +113,8 @@ const styles = {
   textChunk: {
     boxShadow: '0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)',
     padding: '3%',
-    width: '80%'
+    width: '80%',
+    marginBottom: '5%'
   }
 }
 
