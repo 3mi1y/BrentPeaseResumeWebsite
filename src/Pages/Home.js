@@ -31,7 +31,6 @@ const styles = {
   playerInfo: {
     width: 'calc(100% - 60px)',
     backgroundColor: 'white',
-    height: '85vh',
     fontFamily: 'Montserrat',
     color: 'rgb(51, 51, 51)',
     display: 'flex',
@@ -39,7 +38,9 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'space-around',
     paddingRight: '30px',
-    paddingLeft: '30px'
+    paddingLeft: '30px',
+    paddingTop: '3%',
+    paddingBottom: '5%'
   },
   paragraphText: {
     fontSize: '2.0vh'
