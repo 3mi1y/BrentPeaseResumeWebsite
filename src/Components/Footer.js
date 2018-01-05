@@ -86,7 +86,7 @@ const Footer = () => {
         <Link to='/' style={styles.linkItem}><p>Home</p></Link>
         <Link to='/about' style={styles.linkItem}><p>Why Brent Pease</p></Link>
         <Link to='/careerhistory' style={styles.linkItem}><p>Career History</p></Link>
-        <a href='https://drive.google.com/file/d/0B9l52gb23huHM3NDQzA3M0xVTDRVcHo2cjROUFAtTzFqUWkw/view?usp=sharing' target='blank' style={styles.linkItem}><p>Printable Resume</p></a>
+        <a href='https://drive.google.com/file/d/0B9l52gb23huHTEhlTVBsSkRaeElNRWs3dkN5QWZyamd0Y0M4/view?usp=sharing' target='blank' style={styles.linkItem}><p>Printable Resume</p></a>
       </div>
       <div style={styles.contactColumn}>
         <div style={styles.headerIcons}>

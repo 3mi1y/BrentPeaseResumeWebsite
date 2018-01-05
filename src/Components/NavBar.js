@@ -51,7 +51,7 @@ const NavBar = () => {
         <li><Link className="navbar-brand" to='/' style={styles.linkItem} ><strong>Home</strong></Link></li>
         <li><Link className="navbar-brand" to='/about' style={styles.linkItem} >Why Brent Pease</Link></li>
         <li><Link className="navbar-brand" to='/careerhistory' style={styles.linkItem}>Career History</Link></li>
-        <li><a className="navbar-brand" href='https://drive.google.com/file/d/0B9l52gb23huHM3NDQzA3M0xVTDRVcHo2cjROUFAtTzFqUWkw/view?usp=sharing' style={styles.linkItem} target='blank'>Printable Resume</a></li> 
+        <li><a className="navbar-brand" href='https://drive.google.com/file/d/0B9l52gb23huHTEhlTVBsSkRaeElNRWs3dkN5QWZyamd0Y0M4/view?usp=sharing' style={styles.linkItem} target='blank'>Printable Resume</a></li> 
       </ul>
     </div>
   )

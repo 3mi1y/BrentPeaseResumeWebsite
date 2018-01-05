@@ -81,6 +81,7 @@ const styles = {
     fontSize: '3vh'
   },
   whyBrentPease: {
+    height: '100vh',
     width: '100%',
     backgroundColor: 'rgb(250, 250, 250)',
     paddingTop: '5%',
@@ -140,7 +141,7 @@ const About = () => {
         <div style={styles.careerHistoryContainer} >
           <h1 style={styles.headerOne} >Brief career history</h1>
           <h2 style={styles.headerThree}>14 wins in first two seasons of the Chris Peterson era at Washington</h2>
-          <h2 style={styles.headerThree}>SEC East champions and 11-2 overall record at Florida (2012)</h2>
+          <h2 style={styles.headerThree}>11-2 overall record at Florida (2012)</h2>
           <h2 style={styles.headerThree}>Four top 10 final rankings at Boise State (2006, 2009, 2010, 2011)</h2>
           <h2 style={styles.headerThree}>Undefeated season (14-0) and Fiesta Bowl Champions at Boise State in 2009</h2>
           <h2 style={styles.headerThree}>Undefeated season (13-0) and Fiesta Bowl Champions at Boise State in 2006</h2>
@@ -176,7 +177,7 @@ const About = () => {
         <div style={styles.smallContainer} >
           <h1 style={styles.headerOne}>Developing Quarterbacks</h1>
           <p style={styles.text}>
-            <strong>Did you know...</strong> With Brent Pease as offensive coordinator/quarterbacks coach, 
+            <strong>Did you know...</strong> With Brent Pease as Offensive Coordinator / Quarterbacks coach, 
             Kellen Moore threw for 43 TD / 9 INT and led the Broncos to a 12-1 season in 2011.
             Moore was recognized as a finalist for the Maxwell Award.
           </p>
@@ -192,7 +193,7 @@ const About = () => {
           <h1 style={styles.headerOne}>Developing Wide Receivers</h1>
           <h2 style={styles.headerTwo}>2010 National Wide Receivers Coach of the Year</h2>
           <p style={styles.text}>
-            <strong>Did you know...</strong> Under Pease's leadership as wide receivers coach, Titus Young and Auston Pettis 
+            <strong>Did you know...</strong> Under Pease's leadership as wide receivers coach, Titus Young and Austin Pettis 
             earned All-WAC honors in 2009 and 2010.
           </p>
         </div>
@@ -202,7 +203,7 @@ const About = () => {
         <div style={styles.descriptionContainer} >
           <h1 style={styles.headerOne}>2012 Success at Florida</h1>
           <p style={styles.text}>
-            Did you know... Under Pease's leadership, the 2012 Florida Gators finished the regular season 11-1.
+            <strong>Did you know...</strong> Under Pease's leadership, the 2012 Florida Gators finished the regular season 11-1.
           </p>
           <h2 style={styles.headerTwo}>5 Huge Wins</h2>
           <ul>

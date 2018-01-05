@@ -72,7 +72,7 @@ const Home = () => {
             Pease has served an integral role in two undefeated seasons, an SEC Eastern Division championship, a D1-AA national championship, and rekindling the Washington Huskies’ program; recognized as the National Wide Receivers Coach of the Year in 2010; has established a proven track record as a proven play-caller, talent evaluator, recruiter, developer of quarterbacks and wide receivers, and as a winner; determined to inspire competitive excellence.
             </p>
           </div>
-          <a href='https://drive.google.com/file/d/0B9l52gb23huHM3NDQzA3M0xVTDRVcHo2cjROUFAtTzFqUWkw/view?usp=sharing' target='blank' style={styles.link}><p>Printable Resume</p></a>
+          <a href='https://drive.google.com/file/d/0B9l52gb23huHTEhlTVBsSkRaeElNRWs3dkN5QWZyamd0Y0M4/view?usp=sharing' target='blank' style={styles.link}><p>Printable Resume</p></a>
         </div>
       </div>
     </div>

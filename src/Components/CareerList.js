@@ -41,7 +41,7 @@ const CareerList = () => {
           timeline={'2012-2013'}
         />
         <CareerCard 
-          image={'http://content.sportslogos.net/logos/30/617/full/5940_boise_state_broncos-alternate-2002.png'}
+          image={'http://brandstandards.boisestate.edu/wp-content/uploads/2013/01/boisestate-stackedlogo-2color-RGB.jpg'}
           positions={[
             'Offensive Coordinator / Quarterbacks (2011)',
             'Wide Receivers / Assistant Head Coach (2007 - 2010) ',
